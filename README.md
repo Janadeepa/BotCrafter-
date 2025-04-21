@@ -1,9 +1,3 @@
-Sure! Here's a **GitHub repository description**, including a professional tagline, full project description, feature list, and setup instructions — perfect for your GitHub repo's **README.md** and GitHub repo homepage.
-
----
-
-### 🔖 GitHub Repo Description
-
 **Name**: `BotCrafter`  
 **Tagline**: *Visually build and export custom Discord, Telegram, or Slack bots — no coding required.*
 
